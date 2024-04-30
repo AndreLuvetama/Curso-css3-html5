@@ -1,0 +1,16 @@
+header{
+    padding: 10px;
+}
+
+nav{
+    border: 1px solid #e71429;
+}
+
+article{
+    background: #e7e303;
+    padding: 10px;
+}
+footer{
+    background-color: rgb(66, 86, 90);
+    padding: 10px;
+}

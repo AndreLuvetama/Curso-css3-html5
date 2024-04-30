@@ -1,0 +1,21 @@
+
+    .conteudo{
+            border: solid 1px red;
+            /*padding-top: 20px; 
+            padding-right: 20px;*/
+            width: 150px;
+            padding: 20px 5px; /* top base 20 lateral 5*/
+            margin: 20px 5px;
+            
+    }
+
+    #noticias{
+        background-color: blue;
+        padding: 10px;
+        border: 1px solid red;
+    }
+
+    h2{
+        
+        margin: 0px;
+    }
